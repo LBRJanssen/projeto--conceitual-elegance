@@ -26,6 +26,7 @@ body, html {
   color: #fff;
   padding: 20px;
   border-radius: 4px;
+  
 }
 
 .ptext--top {
@@ -39,6 +40,7 @@ body, html {
   font-size: 27px;
   letter-spacing: 8px;
   text-transform: uppercase;
+  opacity: 0.80
 }
 
 .top_navigation--links {
